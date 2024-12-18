@@ -6,7 +6,7 @@ The quite challenging puzzle game with a set algorithm - Tower of Hanoi. in Pyth
 
 Run the Algoprofinale.py file
 
-#Controls
+# Controls
 Title Screen
 - Left and Right Arrow Keys to scroll through the difficulties
 - Press Enter to Start the Game
